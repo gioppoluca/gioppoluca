@@ -9,8 +9,8 @@ I've partecipated to the listed EU funded projects
 
 - [Open-DAI](https://cordis.europa.eu/project/id/297362)
 - [CloudOpting](https://cordis.europa.eu/project/id/621146)
-- [Micado](https://cordis.europa.eu/project/id/822717)
 - [BIG IoT](https://cordis.europa.eu/project/id/688038)
+- [Micado](https://cordis.europa.eu/project/id/822717)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagioppo)
