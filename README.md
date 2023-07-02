@@ -84,6 +84,9 @@ I've partecipated to the listed EU funded projects
 ## 📊 GitHub Stats:
 ![Gioppoluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioppoluca&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gioppoluca&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## StackOverflow stats
+[![Luca Gioppo StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1747054&layout=compact)](https://stackoverflow.com/users/1747054)
+
 ## Support
 <p><a href="https://www.buymeacoffee.com/lucagioppo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lucagioppo" /></a></p><br><br>
 <!--
