@@ -18,8 +18,9 @@ I've partecipated to the listed EU funded projects
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gioppoluca)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioppoluca&show_icons=true&theme=transparent)
+## 📊 GitHub Stats:
+![Gioppoluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioppoluca&show_icons=true&theme=transparent)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gioppoluca&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   
 <!--
