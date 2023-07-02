@@ -1,14 +1,17 @@
 ### Hi there 👋
 I'm Luca Gioppo, Electronic Engineer, with passion for coding (in particular Open Source projects), RPG, music and martial arts (to mention the main ones)
-I work for an IT company in Turin, Italy.
+I work for an IT company in Turin, Italy :it:.
 - 🔭 I’m currently working on Kubernetes on-premise infrastructure design
 - 🌱 I’m currently learning Kubernetes stuff ... there is a lot to keep one busy
 
-## My EU projects
+## :eu: My EU projects
 I've partecipated to the listed EU funded projects
 
 - [Open-DAI](https://cordis.europa.eu/project/id/297362)
 - [Micado](https://cordis.europa.eu/project/id/822717)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagioppo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LucaGioppo)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LucaGioppo)
 
 ## 💻 Skills
 
